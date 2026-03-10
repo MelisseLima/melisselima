@@ -23,7 +23,7 @@
 
 ## About me
 
-- Senior Software Engineer focused on **JavaScript/TypeScript**, **React**, **React Native**, and **Node.js (Express)**  
+- Senior Software Engineer focused on **JavaScript/TypeScript**, **React**, **React Native**, and **Node.js**  
 - Experience building **native iOS apps (Swift)** and full-stack systems
 - **AWS Certified Cloud Practitioner**
 - Interested in **architecture, DX, performance, and product-minded engineering**
